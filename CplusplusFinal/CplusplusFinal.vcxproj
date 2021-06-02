@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0602.cpp" />
     <ClCompile Include="디폴트매개변수연습.cpp" />
     <ClCompile Include="함수중복연습.cpp" />
   </ItemGroup>
