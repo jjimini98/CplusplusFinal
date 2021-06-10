@@ -140,8 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0602.cpp" />
+    <ClCompile Include="0604.cpp" />
     <ClCompile Include="디폴트매개변수연습.cpp" />
     <ClCompile Include="상속연습.cpp" />
+    <ClCompile Include="업캐스팅연습.cpp" />
+    <ClCompile Include="템플릿 연습.cpp" />
     <ClCompile Include="함수중복연습.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
